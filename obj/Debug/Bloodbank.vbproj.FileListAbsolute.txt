@@ -1,0 +1,56 @@
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\bin\Debug\Bloodbank.exe
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\bin\Debug\Bloodbank.pdb
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\bin\Debug\Bloodbank.xml
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\Bloodbank.vbproj.GenerateResource.Cache
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\Bloodbank.exe
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\Bloodbank.xml
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\Bloodbank.pdb
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AdminLogin.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AdminDashboard.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AddDonor.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.UpdateDonor.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Bloodtest.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.criteria.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Stock.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Certificate.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.delete.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Testdetails.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.details.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.report.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.generate.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.forgotpass.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Donorsearch.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.campaings.resources
+C:\Users\pande\OneDrive\Documents\Visual Studio 2008\Projects\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Form1.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\Bloodbank.exe
+E:\project\Bloodbank\Bloodbank\obj\Debug\Bloodbank.xml
+E:\project\Bloodbank\Bloodbank\obj\Debug\Bloodbank.pdb
+E:\project\Bloodbank\Bloodbank\bin\Debug\Bloodbank.exe
+E:\project\Bloodbank\Bloodbank\bin\Debug\Bloodbank.pdb
+E:\project\Bloodbank\Bloodbank\bin\Debug\Bloodbank.xml
+E:\project\Bloodbank\Bloodbank\obj\Debug\ResolveAssemblyReference.cache
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.campaings.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.certificate.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.delete.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.details.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Donorsearch.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.forgotpass.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.generate.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Resources.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Bloodtest.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AdminLogin.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AdminDashboard.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.AddDonor.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.report.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Stock.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.Testdetails.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.UpdateDonor.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.criteria.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\Bloodbank.vbproj.GenerateResource.Cache
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.adddonorrep.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.stockdec.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.stockrep.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.blooddetails.resources
+E:\project\Bloodbank\Bloodbank\obj\Debug\WindowsApplication1.adduser.resources
